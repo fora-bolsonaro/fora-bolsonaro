@@ -1,26 +1,36 @@
 import React from 'react';
-import logo from './logo.svg';
+import audio from './fora-bolsonaro.mp3';
+import logo from './logo.png';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      play: false
+    };
+
+    this.audio = new Audio(audio);
+  }
+
+  togglePlay = () => {
+    this.setState({ play: !this.state.play }, () => {
+      this.state.play ? this.audio.play() : this.audio.pause();
+    });
+  }
+
+  render() {
+    return (
+      <div className="container">
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <img src={logo} className="logo" alt="logo" />
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+        <button onClick={this.togglePlay} className="button">
+          {this.state.play ? 'Pause' : 'Play'}
+        </button>
+      </div>
+    );
+  }
 }
 
 export default App;
