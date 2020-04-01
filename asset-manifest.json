@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/fora-bolsonaro/static/css/main.49745c12.chunk.css",
-    "main.js": "/fora-bolsonaro/static/js/main.344c26ee.chunk.js",
-    "main.js.map": "/fora-bolsonaro/static/js/main.344c26ee.chunk.js.map",
-    "runtime-main.js": "/fora-bolsonaro/static/js/runtime-main.6f0c5b04.js",
-    "runtime-main.js.map": "/fora-bolsonaro/static/js/runtime-main.6f0c5b04.js.map",
-    "static/js/2.f0327058.chunk.js": "/fora-bolsonaro/static/js/2.f0327058.chunk.js",
-    "static/js/2.f0327058.chunk.js.map": "/fora-bolsonaro/static/js/2.f0327058.chunk.js.map",
-    "index.html": "/fora-bolsonaro/index.html",
-    "precache-manifest.b798f6481f6f0f43c163393701fd77bd.js": "/fora-bolsonaro/precache-manifest.b798f6481f6f0f43c163393701fd77bd.js",
-    "service-worker.js": "/fora-bolsonaro/service-worker.js",
-    "static/css/main.49745c12.chunk.css.map": "/fora-bolsonaro/static/css/main.49745c12.chunk.css.map",
-    "static/js/2.f0327058.chunk.js.LICENSE.txt": "/fora-bolsonaro/static/js/2.f0327058.chunk.js.LICENSE.txt",
-    "static/media/fora-bolsonaro.mp3": "/fora-bolsonaro/static/media/fora-bolsonaro.247b5951.mp3",
-    "static/media/logo.png": "/fora-bolsonaro/static/media/logo.27278ea4.png"
+    "main.css": "/panelaco/static/css/main.49745c12.chunk.css",
+    "main.js": "/panelaco/static/js/main.ecff4736.chunk.js",
+    "main.js.map": "/panelaco/static/js/main.ecff4736.chunk.js.map",
+    "runtime-main.js": "/panelaco/static/js/runtime-main.ac11b665.js",
+    "runtime-main.js.map": "/panelaco/static/js/runtime-main.ac11b665.js.map",
+    "static/js/2.f0327058.chunk.js": "/panelaco/static/js/2.f0327058.chunk.js",
+    "static/js/2.f0327058.chunk.js.map": "/panelaco/static/js/2.f0327058.chunk.js.map",
+    "index.html": "/panelaco/index.html",
+    "precache-manifest.72d4da23022c876d7715753e45f3c7b7.js": "/panelaco/precache-manifest.72d4da23022c876d7715753e45f3c7b7.js",
+    "service-worker.js": "/panelaco/service-worker.js",
+    "static/css/main.49745c12.chunk.css.map": "/panelaco/static/css/main.49745c12.chunk.css.map",
+    "static/js/2.f0327058.chunk.js.LICENSE.txt": "/panelaco/static/js/2.f0327058.chunk.js.LICENSE.txt",
+    "static/media/fora-bolsonaro.mp3": "/panelaco/static/media/fora-bolsonaro.247b5951.mp3",
+    "static/media/logo.png": "/panelaco/static/media/logo.6f116095.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f0c5b04.js",
+    "static/js/runtime-main.ac11b665.js",
     "static/js/2.f0327058.chunk.js",
     "static/css/main.49745c12.chunk.css",
-    "static/js/main.344c26ee.chunk.js"
+    "static/js/main.ecff4736.chunk.js"
   ]
 }
