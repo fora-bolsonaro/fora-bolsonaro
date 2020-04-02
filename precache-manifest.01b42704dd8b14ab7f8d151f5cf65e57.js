@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2dce792ae04c1f2ffba24063deaed7a",
+    "revision": "d87fba7995b861d99da141d43c22fd02",
     "url": "/panelaco/index.html"
   },
   {
