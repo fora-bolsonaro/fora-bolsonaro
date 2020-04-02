@@ -2,6 +2,7 @@ import React from 'react';
 import audio from './fora-bolsonaro.mp3';
 import logo from './logo.png';
 import './App.css';
+import ReactGA from "react-ga";
 
 class App extends React.Component {
   constructor(props) {
@@ -30,6 +31,10 @@ class App extends React.Component {
         </button>
       </div>
     );
+  }
+
+  componentDidMount() {
+    ReactGA.initialize('UA-4427777-19');
   }
 }
 
