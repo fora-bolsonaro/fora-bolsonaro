@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/panelaco/static/css/main.49745c12.chunk.css",
-    "main.js": "/panelaco/static/js/main.cdbf941c.chunk.js",
-    "main.js.map": "/panelaco/static/js/main.cdbf941c.chunk.js.map",
+    "main.js": "/panelaco/static/js/main.ca850989.chunk.js",
+    "main.js.map": "/panelaco/static/js/main.ca850989.chunk.js.map",
     "runtime-main.js": "/panelaco/static/js/runtime-main.ac11b665.js",
     "runtime-main.js.map": "/panelaco/static/js/runtime-main.ac11b665.js.map",
     "static/js/2.57926a06.chunk.js": "/panelaco/static/js/2.57926a06.chunk.js",
     "static/js/2.57926a06.chunk.js.map": "/panelaco/static/js/2.57926a06.chunk.js.map",
     "index.html": "/panelaco/index.html",
-    "precache-manifest.01b42704dd8b14ab7f8d151f5cf65e57.js": "/panelaco/precache-manifest.01b42704dd8b14ab7f8d151f5cf65e57.js",
+    "precache-manifest.09150c93a79ccc709983351a55737b95.js": "/panelaco/precache-manifest.09150c93a79ccc709983351a55737b95.js",
     "service-worker.js": "/panelaco/service-worker.js",
     "static/css/main.49745c12.chunk.css.map": "/panelaco/static/css/main.49745c12.chunk.css.map",
     "static/js/2.57926a06.chunk.js.LICENSE.txt": "/panelaco/static/js/2.57926a06.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.ac11b665.js",
     "static/js/2.57926a06.chunk.js",
     "static/css/main.49745c12.chunk.css",
-    "static/js/main.cdbf941c.chunk.js"
+    "static/js/main.ca850989.chunk.js"
   ]
 }

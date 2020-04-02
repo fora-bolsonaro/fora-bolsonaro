@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d87fba7995b861d99da141d43c22fd02",
+    "revision": "70a602aa3d650715feda3e3da2a87034",
     "url": "/panelaco/index.html"
   },
   {
-    "revision": "0d7d9fd441ff8b643815",
+    "revision": "ef57ef626e6714b3447d",
     "url": "/panelaco/static/css/main.49745c12.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/panelaco/static/js/2.57926a06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d7d9fd441ff8b643815",
-    "url": "/panelaco/static/js/main.cdbf941c.chunk.js"
+    "revision": "ef57ef626e6714b3447d",
+    "url": "/panelaco/static/js/main.ca850989.chunk.js"
   },
   {
     "revision": "f1596b978b65ac9a98e7",
