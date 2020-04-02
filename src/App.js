@@ -23,11 +23,9 @@ class App extends React.Component {
   render() {
     return (
       <div className="container">
-        <p>
-          <img src={logo} className="logo" alt="logo" />
-        </p>
+        <p><img src={logo} className="logo" alt="logo" /></p>
         <button onClick={this.togglePlay} className="button">
-          {this.state.play ? 'Pause' : 'Play'}
+          {this.state.play ? 'Parar' : 'Panelar'}
         </button>
       </div>
     );
