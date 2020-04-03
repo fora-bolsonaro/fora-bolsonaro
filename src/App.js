@@ -3,6 +3,7 @@ import audio from './fora-bolsonaro.mp3';
 import logo from './logo.png';
 import './App.css';
 import ReactGA from "react-ga";
+import ShareButtons from './ShareButtons.js'
 
 class App extends React.Component {
   constructor(props) {
@@ -27,6 +28,7 @@ class App extends React.Component {
         <button onClick={this.togglePlay} className="button">
           {this.state.play ? 'Parar' : 'Panelar'}
         </button>
+        <ShareButtons />
       </div>
     );
   }
